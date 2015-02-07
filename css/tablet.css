@@ -1,0 +1,12 @@
+.tablet{
+	visibility: visible;
+	display: block;
+}
+
+.notebook {
+	display: none;
+}
+
+.phone {
+	display: none;
+}
